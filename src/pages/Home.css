@@ -1,0 +1,20 @@
+.country__card{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+ 
+  }
+
+  .country__card:hover{
+    transition: 0.3s;
+  }
+
+  .link__card{
+    text-decoration: none;
+  }
+
+.header {
+    display: flex;
+    width: 500px;
+    margin-bottom: 15px;
+}
